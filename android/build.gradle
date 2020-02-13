@@ -32,6 +32,6 @@ repositories {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    implementation 'com.github.troila-lobo:CustomAlert_Android:v1.3.9'
+    implementation 'com.github.troila-lobo:CustomAlert_Android:v1.4.0'
 }
   
